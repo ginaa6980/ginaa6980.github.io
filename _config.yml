@@ -1,0 +1,4 @@
+name: Eric Allatta
+markdown: kramdown
+theme: jekyll-theme-minimal
+permalink: /blog/:year/:month/:day/:title
