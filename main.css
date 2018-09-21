@@ -79,6 +79,8 @@ li a:hover:not(.active) {
 .menu li {
 	width:25%;
 	height:100%;
+	margin:0;
+	padding:0;
 	background:#333;
 }
 .active {
