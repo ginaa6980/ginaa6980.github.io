@@ -86,3 +86,6 @@ li a:hover:not(.active) {
 .active {
     background-color:dodgerblue;
 }
+.post li{
+color: white;
+}
