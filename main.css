@@ -89,3 +89,7 @@ li a:hover:not(.active) {
 .post li{
 color: white;
 }
+.posts {
+display:table;
+
+	
